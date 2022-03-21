@@ -5,6 +5,7 @@ Simples app que renderiza dados de uma mock data, alterna para o próximo/anteri
 ## Frameworks e Libs utilizadas
 
 [React](https://github.com/facebook/react/)
+[React Icons](https://github.com/react-icons/react-icons)
 
 ## Inicializar app
 
